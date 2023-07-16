@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Библиотеки.md",
+                "file": "Приложения.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Библиотеки.md",
+                "file": "Приложения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Библиотеки.md",
+                "file": "Приложения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Библиотеки.md"
+                "file": "Приложения.md"
               }
             }
           }
@@ -198,8 +198,8 @@
   },
   "active": "b129d55410c05124",
   "lastOpenFiles": [
-    "Приложения.md",
     "Библиотеки.md",
+    "Приложения.md",
     "Без названия.md",
     "Битовые операции.md",
     "README.md",
