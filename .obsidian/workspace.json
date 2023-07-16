@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b129d55410c05124",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Библиотеки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Приложения.md",
+                "file": "Библиотеки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Приложения.md",
+                "file": "Библиотеки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Приложения.md"
+                "file": "Библиотеки.md"
               }
             }
           }
@@ -184,10 +196,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8bfef4bb1bd7ca87",
+  "active": "b129d55410c05124",
   "lastOpenFiles": [
-    "Без названия.md",
     "Приложения.md",
+    "Библиотеки.md",
+    "Без названия.md",
     "Битовые операции.md",
     "README.md",
     "flow.md",
