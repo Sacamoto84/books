@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4dcc402cfb73ef24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "45b067fabebdcf08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Битовые операции.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5d77d5352eab1a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Без названия.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bfef4bb1bd7ca87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Приложения.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b129d55410c05124",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Приложения.md",
+                "file": "Docker/SFTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/S3.md",
+                "file": "Docker/SFTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/S3.md",
+                "file": "Docker/SFTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/S3.md"
+                "file": "Docker/SFTP.md"
               }
             }
           }
@@ -208,20 +159,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "260e556fcff102f1",
+  "active": "45b067fabebdcf08",
   "lastOpenFiles": [
-    "Docker",
-    "Приложения.md",
+    "README.md",
+    "Docker/SFTP.md",
+    "Docker/minio.md",
     "Docker/S3.md",
+    "Битовые операции.md",
+    "Приложения.md",
+    "Docker",
     "Ktor/Server/Без названия.md",
     "Ktor/Без названия.md",
     "Ktor/Server",
     "Навигация.md",
-    "Битовые операции.md",
     "Библиотеки.md",
     "Без названия.md",
     "Ktor",
-    "README.md",
     "flow.md",
     "animation.md"
   ]
