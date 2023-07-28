@@ -1,5 +1,7 @@
 https://chercher.tech/kotlin/properties-file-kotlin
 
+https://crunchify.com/java-properties-file-how-to-read-config-properties-values-in-java/
+
 Чтение файла pathconfig-p.txt
 
 ```kotlin
