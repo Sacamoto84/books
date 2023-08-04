@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/S3.md",
+                "file": "Битовые операции.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Без названия 1.md",
+                "file": "Битовые операции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Без названия 1.md",
+                "file": "Битовые операции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Без названия 1.md"
+                "file": "Битовые операции.md"
               }
             }
           }
@@ -172,13 +172,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3fed28466d306dca",
+  "active": "260e556fcff102f1",
   "lastOpenFiles": [
+    "Без названия.md",
+    "Библиотеки.md",
+    "Docker/Без названия 1.md",
     "Docker/minio.md",
     "Docker/S3.md",
-    "Docker/Без названия 1.md",
-    "README.md",
     "Docker/SFTP.md",
+    "flow.md",
+    "README.md",
     "Битовые операции.md",
     "Приложения.md",
     "Docker",
@@ -186,10 +189,7 @@
     "Ktor/Без названия.md",
     "Ktor/Server",
     "Навигация.md",
-    "Библиотеки.md",
-    "Без названия.md",
     "Ktor",
-    "flow.md",
     "animation.md"
   ]
 }
