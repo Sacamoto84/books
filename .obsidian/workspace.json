@@ -4,59 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "eeb30aca43a01e35",
+        "id": "156bc255906d4104",
         "type": "tabs",
         "children": [
           {
-            "id": "45b067fabebdcf08",
+            "id": "fccdc6abf4c08943",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/minio.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "260e556fcff102f1",
+            "id": "8fbff66d1f88a86a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Битовые операции.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e0d6a9b2d662482",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Без названия.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d2ebf4bcf0c6e1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Без названия 1.md",
-                "mode": "source",
+                "file": "properties.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названия.md",
+                "file": "properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Без названия.md",
+                "file": "properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия.md"
+                "file": "properties.md"
               }
             }
           }
@@ -184,22 +156,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3fed28466d306dca",
+  "active": "8fbff66d1f88a86a",
   "lastOpenFiles": [
-    "animation.md",
-    "Ktor/Server/Без названия.md",
-    "Ktor/Без названия.md",
-    "Навигация.md",
-    "Docker/minio.md",
-    "Docker/SFTP.md",
-    "Docker/S3.md",
+    "README.md",
     "Docker/Без названия 1.md",
+    "Docker/minio.md",
+    "Без названия.md",
+    "Библиотеки.md",
     "Битовые операции.md",
     "Приложения.md",
-    "Библиотеки.md",
-    "Без названия.md",
+    "Навигация.md",
+    "animation.md",
     "flow.md",
-    "README.md",
+    "properties.md",
+    "Ktor/Server/Без названия.md",
+    "Ktor/Без названия.md",
+    "Docker/SFTP.md",
+    "Docker/S3.md",
     "Docker",
     "Ktor/Server",
     "Ktor"
