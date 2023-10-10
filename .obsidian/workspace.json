@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "properties.md",
+                "file": "animation.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "properties.md",
+                "file": "animation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "properties.md",
+                "file": "animation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "properties.md"
+                "file": "animation.md"
               }
             }
           }
@@ -158,17 +158,17 @@
   },
   "active": "8fbff66d1f88a86a",
   "lastOpenFiles": [
+    "Приложения.md",
+    "Навигация.md",
+    "Битовые операции.md",
+    "Библиотеки.md",
+    "animation.md",
+    "flow.md",
+    "properties.md",
     "README.md",
     "Docker/Без названия 1.md",
     "Docker/minio.md",
     "Без названия.md",
-    "Библиотеки.md",
-    "Битовые операции.md",
-    "Приложения.md",
-    "Навигация.md",
-    "animation.md",
-    "flow.md",
-    "properties.md",
     "Ktor/Server/Без названия.md",
     "Ktor/Без названия.md",
     "Docker/SFTP.md",
